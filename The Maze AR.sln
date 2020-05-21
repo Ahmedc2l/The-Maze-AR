@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Maze AR", "Assembly-CSharp.csproj", "{16DB578A-A0FD-8F15-0A4A-8442D3F56A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Maze AR", "Assembly-CSharp-Editor.csproj", "{893F2093-5C8B-CFE6-17B5-168D786B78DE}"
+EndProject
+Project("{B9FE118E-657F-BBAA-F339-3B798CA8A99E}") = "The Maze AR", "Assembly-UnityScript-Editor-firstpass.unityproj", "{530B45A7-B5E3-9D80-99BF-2E7C8120265D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16DB578A-A0FD-8F15-0A4A-8442D3F56A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DB578A-A0FD-8F15-0A4A-8442D3F56A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DB578A-A0FD-8F15-0A4A-8442D3F56A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DB578A-A0FD-8F15-0A4A-8442D3F56A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{893F2093-5C8B-CFE6-17B5-168D786B78DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893F2093-5C8B-CFE6-17B5-168D786B78DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893F2093-5C8B-CFE6-17B5-168D786B78DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893F2093-5C8B-CFE6-17B5-168D786B78DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530B45A7-B5E3-9D80-99BF-2E7C8120265D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530B45A7-B5E3-9D80-99BF-2E7C8120265D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530B45A7-B5E3-9D80-99BF-2E7C8120265D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530B45A7-B5E3-9D80-99BF-2E7C8120265D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

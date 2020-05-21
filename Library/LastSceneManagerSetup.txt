@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Ahmed/Documents/Unity Projects/SeeIt/Assets/_Scenes/MainMenu.unity
+  isLoaded: 1
+  isActive: 1
